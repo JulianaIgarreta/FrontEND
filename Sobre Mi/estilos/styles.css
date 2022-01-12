@@ -1,0 +1,93 @@
+header{
+    background-color:#E5E5E5;
+    font-family: 'Roboto Slab', serif;
+    background-image:url('../img/fondo.jpg');
+    background-size:cover;
+    background-attachment: fixed;
+}
+.foto{
+    display:block;
+    margin:auto;  
+    border: 2px solid #db0b88;
+}
+
+h2{
+    
+    background-color:#bab3b7;
+    text-align: center;
+    font-size: 30px;
+    text-transform: uppercase;
+    color:#db0b88;
+}
+body{
+    font-family: 'Roboto Slab', serif;
+    
+}
+.principal{
+    margin-left:200px;
+    margin-right: 200px;
+
+}
+.negrita_italica{
+    font-weight: bold;
+    font-style: italic;
+}
+h3{
+    color: #db0b88;
+    background-color: #bab3b7;
+    padding-left:15px;
+    
+}
+em{
+    font-weight: bold;
+    font-style: normal;
+}
+.indentado{
+    margin-left:80px;
+}
+.indentado_2{
+    margin-left:130px;
+}
+footer{
+    background-color:#db0b88;
+    background-image:url('../img/fondo.jpg');
+    color:#db0b88;
+    text-align: center;
+    padding: 1px; 
+    margin-left:200px;
+    margin-right: 200px;
+    background-size:cover;
+    background-attachment: fixed;
+
+}
+.fa-instagram-square{
+    color:#db0b88;
+    font-size: 30px;
+}
+.fa-facebook-square{
+    color:#db0b88;
+    font-size: 30px;
+}
+.fa-linkedin{
+    color:#db0b88;
+    font-size: 30px;
+}
+.sobre_mi{
+    color:#db0b88
+    
+}
+p{
+    text-align:center;
+    font-family: 'Roboto Slab', serif;
+
+}
+
+.pag_2{
+    margin-left:200px;
+    margin-right: 200px;
+    text-align: justify;
+}
+.fa-github-square{
+    color:#db0b88;
+    font-size: 30px;
+}

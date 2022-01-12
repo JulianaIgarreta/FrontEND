@@ -1,0 +1,248 @@
+*{
+    padding:0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+body{
+    font-family: 'Inter', sans-serif;
+    width: 100%;
+}
+.descuento{
+    background-color: #1CD1B0;
+    color:black;
+    font-size: 1rem;
+    padding: 0.3rem 1.2rem;
+}
+.verde_oscuro{
+    font-family: 'Inter', sans-serif;
+    background-color: #00669F;
+    color:white;
+    display:flex;
+    align-items: center;
+    font-size: 1.5rem;
+    padding: 0.5rem 1.2rem;
+    
+}
+.formulario{
+    padding: 20rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    justify-items: center;
+}
+.form_2{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.titular{
+    font-size: 3rem;
+    font-family: 'Inter', sans-serif;
+    margin: 0rem 0rem 1.5rem 0.7rem;
+    align-items: flex-start;
+}
+input{
+    height: 2.5rem;
+    width: 30rem;
+    margin: 0.5rem 0rem 0.5rem 0rem;
+    padding: 0rem 0.5rem;
+   
+}
+button{
+    margin:2rem 0rem 2rem 0rem;
+    width: 31rem;
+    height: 2.5rem;
+    background-color: #1CD1B0 ;
+    align-items: center;
+    border-radius: 15px;
+    outline: none;
+    box-shadow: none;
+    font-weight: 700;
+}
+.boton_entrar{
+    outline: none;
+    background-color:#1CD1B0;
+    color: black;
+    border: 0;    
+}
+footer{
+    padding: 1.5rem;
+    background-color: #00669F;
+    color:white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+textarea{
+    margin: 0.5rem 0rem 0.5rem 0rem;
+}
+.botones_contactos{
+    display:flex;
+    width: 30rem;
+    justify-content: center;
+}
+.boton_resetear{
+    margin: 2rem 1rem 0rem 0rem;
+    background-color:#888888;
+    color: white;
+}
+select{
+    height: 2.5rem;
+    width: 30rem;
+    margin: 0.5rem 0rem 0.5rem 0rem;
+    padding: 0rem 0.5rem;
+   
+}
+.ingreso{
+    text-align: center;
+}
+a{
+    text-decoration: none;
+}
+nav{
+    height: 2rem;
+    background-color: black;
+    color:white;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+ul{
+    display: flex;
+    color:white;
+    align-items: center;
+    padding: 0rem 1rem 0rem 1rem;
+}
+.blanco{
+    color:white;
+    text-decoration: none;
+    list-style: none;
+    margin-left: 1.2rem;
+}
+section{
+    display: flex;
+    margin:auto;
+    background-color: white;
+    justify-content: center;
+    padding:90px;
+    
+}
+.supers{
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+    margin: 50px 90px 50px 90px;
+    align-items: center;
+}
+.fondito{
+    position: absolute;
+}
+.corazon{
+    position: relative;
+    margin-top:1.2rem; 
+    margin-right: 14rem;
+
+
+}
+.texto_super{
+    padding: 6rem 1rem 1rem 1rem;
+    text-align: left;
+    background-color: #F3F3F3;
+    width: 19rem;
+
+}
+.caras{
+    position: relative;
+    border-radius: 50%;
+    top: 5rem;
+
+}
+h1{
+    text-align: center;
+    font-size: 1.7rem;
+    font-family: 'Roboto', sans-serif;
+    padding: 0rem 0rem 1rem 0rem;
+}
+
+.boton_verde{
+    background-color: #00669F;
+    color:white;
+    width: 128.78px;
+    border-radius: 0rem;
+    margin: 2rem 0rem 0rem 4.5rem;
+
+}
+
+.boton_redondo_mas{
+    background-color: #00669F;
+    font-size:62px;
+    color:white;
+    width: 82px;
+    height: 82px;
+    border-radius: 50%;
+    font-family: 'Roboto', sans-serif;
+    margin: 15rem 2rem 0rem 0rem;
+}
+.Harley{
+    font-size: 3rem;
+    font-weight: 500;
+}
+.colores{
+    background-image: url('../img/fondo-queen-2.png');
+   background-size: cover;
+   height: 787px;
+   width: auto;
+}
+.centro_harley{
+    display: flex;
+    flex-direction: column;
+    width: 40rem;
+    align-items: center;
+}
+.cara_2{
+    border-radius: 50%;
+    position: relative;
+    top: 3rem;
+}
+.ficha_harley{
+    background-color: white;
+    border-radius: 30px;
+    padding: 3rem 2rem 1rem 2rem;
+    font-family: 'Roboto', sans-serif;
+}
+.cora_pixel{
+    position: relative;
+}
+.titulo_harley{
+    text-decoration:underline;
+    font-size: 2rem;
+    color:#2C0187;
+    margin: 8rem;
+}
+.texto_harley{
+    color:black;
+    padding: 1rem 2rem;
+}
+.iconos_harley{
+    display: flex;
+    justify-content: space-around;
+    padding: 2rem;
+    margin-right: 1rem;
+
+}
+.violeta{
+    background-color: #2C0187;
+    width: 100%;
+    height: 30%;
+    margin-top: 20px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+
+
+
+

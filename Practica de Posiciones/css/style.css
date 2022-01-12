@@ -1,0 +1,173 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin:0;
+}
+header, body, footer{
+    width: 1024px;    
+
+}
+
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #E5E5E5;
+}
+
+.descuentos{
+    background-color:#1CD1B0;
+    width: 1024px;
+    height: 38px;
+    font-size: 15px;
+    line-height: 18px;    
+}
+.texto_descuentos{
+    padding-top:10px;
+    padding-left:20px; 
+    text-align: left;   
+}
+nav{
+    background-color: #00669F;
+    height: 101px;
+    left: 0px;
+    top: 38px;
+}
+h1{
+    font-size: 40px;
+    line-height: 47px;
+    width: 128px;
+    left: 28px;
+    top: 66px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+section{
+position:relative;
+
+}
+
+.articulo{
+    position: absolute;
+    width: 300px;
+}
+
+.img1{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 32px;
+    top: 291px;
+}
+.redondo1{
+    border-radius: 50% ;
+    position: absolute;
+    width: 120px;
+    height: 118px;
+    left: 122px;
+    top: 419px;
+}
+.primero{
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 32px;
+    top: 483px;
+}
+.boton1{
+    
+    position: absolute;
+    left: 117px;
+    top: 752px;
+
+}
+.img2{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 362px;
+    top: 293px  
+}
+.redondo2{
+    position: absolute;
+    border-radius: 50% ;
+    width: 122px;
+    height: 122px;
+    left: 451px;
+    top: 419px;
+}
+.segundo{
+    position: absolute;
+    width: 300px;
+    height: 336px;
+    left: 362px;
+    top: 485px;
+
+}
+.boton2{
+    position: absolute;
+    left: 447px;
+    top: 754px; 
+
+}
+
+.img3{
+    position: absolute;
+    width: 300px;
+    height: 193px;
+    left: 692px;
+    top: 294px;
+}
+.redondo3{
+    position: absolute;
+    border-radius: 50%;
+    width: 122px;
+    height: 120px;
+    left: 781px;
+    top: 420px;
+}
+.tercero{
+    position: absolute;    
+    width: 300px;
+    height: 336px;
+    left: 692px;
+    top: 486px; 
+}
+.boton3{
+    position: absolute;  
+    left: 777px;
+    top: 755px;
+}
+
+footer{
+    background-color: #00669F;
+    height: 51px;
+    color:white;
+    position: absolute;
+    width: 1024px;
+    left: 0px;
+    top: 1200px;
+}
+div{
+    background-color: #F3F3F3;
+    z-index: -1;
+}
+.texto{
+    text-align: justify;
+    margin:30px;
+    margin-top: 113px;
+
+}
+h2{
+    position: absolute;
+    left: 86px;
+    margin-top:70px;
+
+}
+.pie{
+    text-align: justify;
+    margin:30px;   
+}
+
+
+
+
